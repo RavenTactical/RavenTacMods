@@ -1,3 +1,3 @@
-name = "RavTac-Factions";
+name = "RT Mods";
 picture = "RTlogoFaction.paa";
-description = "RavTac-Factions V1.0";
+description = "RT Mods 3.0";
