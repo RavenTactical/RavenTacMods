@@ -1474,13 +1474,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -1496,13 +1495,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -1531,6 +1529,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1546,6 +1545,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1599,13 +1599,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -1621,13 +1620,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -1656,6 +1654,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1671,6 +1670,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1726,7 +1726,7 @@ class CfgVehicles {
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
@@ -1753,7 +1753,7 @@ class CfgVehicles {
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
@@ -1791,6 +1791,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1806,6 +1807,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1853,8 +1855,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -1866,8 +1868,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -1897,6 +1899,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1912,6 +1915,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1957,8 +1961,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -1969,8 +1973,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -2000,6 +2004,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2015,6 +2020,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2067,13 +2073,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -2089,13 +2094,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -2124,6 +2128,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2139,6 +2144,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2194,13 +2200,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -2217,13 +2222,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -2252,6 +2256,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2267,6 +2272,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2319,13 +2325,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -2341,13 +2346,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -2376,6 +2380,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2391,6 +2396,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2446,13 +2452,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -2469,13 +2474,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -2504,6 +2508,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2519,6 +2524,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2571,13 +2577,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -2593,13 +2598,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -2628,6 +2632,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2643,6 +2648,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2693,13 +2699,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -2715,13 +2720,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -2752,6 +2756,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2767,6 +2772,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2817,13 +2823,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -2839,13 +2844,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -2874,6 +2878,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2889,6 +2894,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2942,9 +2948,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"SmokeShell",
-			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
@@ -2969,9 +2974,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"SmokeShell",
-			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
 			"rhs_mag_M441_HE",
@@ -3007,6 +3011,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3022,6 +3027,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3075,13 +3081,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -3097,13 +3102,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -3132,6 +3136,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3147,6 +3152,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3201,13 +3207,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			"rhs_mag_maaws_HEAT";
 			
 		};
@@ -3224,13 +3229,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			"rhs_mag_maaws_HEAT";
 			
 		};
@@ -3260,6 +3264,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3275,6 +3280,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3328,13 +3334,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -3350,13 +3355,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -3385,6 +3389,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3400,6 +3405,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3453,13 +3459,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -3475,13 +3480,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -3510,6 +3514,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3525,6 +3530,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3573,36 +3579,34 @@ class CfgVehicles {
 			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
 			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
 			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
+			"rhsusf_mag_17Rnd_9x19_FMJ",
+			"rhsusf_mag_17Rnd_9x19_FMJ",
+			"rhsusf_mag_17Rnd_9x19_FMJ",
+			"HandGrenade",
+			"HandGrenade",
+			"SmokeShell",
+			"SmokeShell",
+			"SmokeShellBlue",
+			"ACE_M84",
+		};
+		respawnMagazines[]=
+		{
+			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
+			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
+			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
+			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
+			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
+			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
 			"rhsusf_20Rnd_762x51_SR25_m118_special_Mag",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
-		};
-		respawnMagazines[]=
-		{
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_20Rnd_762x51_m118_special_Mag",
-			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
-			"SmokeShell",
-			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -3630,6 +3634,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3646,6 +3651,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3699,12 +3705,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		respawnMagazines[]=
 		{
@@ -3719,12 +3725,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -3752,6 +3758,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3768,6 +3775,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3821,13 +3829,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		respawnMagazines[]=
@@ -3843,13 +3850,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 			
 		};
 		linkedItems[]=
@@ -3878,6 +3884,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3893,6 +3900,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3942,8 +3950,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -3955,8 +3963,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -3988,6 +3996,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4003,6 +4012,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4052,8 +4062,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -4065,8 +4075,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -4098,6 +4108,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4113,6 +4124,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4161,8 +4173,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -4174,8 +4186,8 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -4207,6 +4219,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4222,6 +4235,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
+			"ACRE_PRC343",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4282,13 +4296,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		respawnMagazines[]=
 		{
@@ -4304,13 +4317,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -4340,6 +4352,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4355,6 +4368,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4412,13 +4426,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		respawnMagazines[]=
 		{
@@ -4434,13 +4447,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -4470,6 +4482,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4485,6 +4498,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4547,13 +4561,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhs_mag_maaws_HEAT",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		respawnMagazines[]=
 		{
@@ -4570,13 +4583,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhs_mag_maaws_HEAT",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -4606,6 +4618,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4621,6 +4634,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4678,13 +4692,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		respawnMagazines[]=
 		{
@@ -4700,13 +4713,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -4736,6 +4748,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4751,6 +4764,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4801,7 +4815,7 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -4814,7 +4828,7 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 		};
@@ -4846,6 +4860,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4861,6 +4876,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4920,13 +4936,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		respawnMagazines[]=
 		{
@@ -4942,13 +4957,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
-			"SmokeShell",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -4978,6 +4992,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4993,6 +5008,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -5050,12 +5066,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		respawnMagazines[]=
 		{
@@ -5070,12 +5086,12 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_m67",
-			"rhs_mag_m67",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
 			"SmokeShell",
 			"SmokeShellBlue",
-			"rhs_mag_mk84",
+			"ACE_M84",
 		};
 		linkedItems[]=
 		{
@@ -5105,6 +5121,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -5121,6 +5138,7 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
+			"ACRE_PRC152",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -5364,9 +5382,9 @@ class CfgVehicles {
 				magazine="rhsusf_mag_17Rnd_9x19_FMJ";
 				count=4;
 			};
-			class _xx_rhs_mag_m67
+			class _xx_HandGrenade
 			{
-				magazine="rhs_mag_m67";
+				magazine="HandGrenade";
 				count=9;
 			};
 		};
@@ -5420,9 +5438,9 @@ class CfgVehicles {
 				magazine="rhsusf_mag_17Rnd_9x19_FMJ";
 				count=8;
 			};
-			class _xx_rhs_mag_m67
+			class _xx_HandGrenade
 			{
-				magazine="rhs_mag_m67";
+				magazine="HandGrenade";
 				count=9;
 			};
 			class rhs_mag_M441_HE
@@ -5583,9 +5601,9 @@ class CfgVehicles {
 				magazine="SmokeShellYellow";
 				count=2;
 			};
-			class _xx_rhs_mag_m67
+			class _xx_HandGrenade
 			{
-				magazine="rhs_mag_m67";
+				magazine="HandGrenade";
 				count=12;
 			};
 		};
