@@ -1358,10 +1358,10 @@ class CfgVehicles {
 		scope=1;
 		class TransportItems
 		{
-			class rhs_mag_maaws_HEAT
+			class MRAWS_HEAT_F
 			{
 				count=2;
-				name="rhs_mag_maaws_HEAT";
+				name="MRAWS_HEAT_F";
 			};
 		};
 	};
@@ -3153,7 +3153,7 @@ class CfgVehicles {
 			"corb_rhs_weap_m16a4_handle_anpeq15",
 			"rhsusf_weap_glock17g4",
 			"Throw",
-			"rhs_weap_maaws",
+			"launch_MRAWS_green_rail_F",
 			"Put",
 			"Binocular"
 		};
@@ -3162,7 +3162,7 @@ class CfgVehicles {
 			"corb_rhs_weap_m16a4_handle_anpeq15",
 			"rhsusf_weap_glock17g4",
 			"Throw",
-			"rhs_weap_maaws",
+			"launch_MRAWS_green_rail_F",
 			"Put",
 			"Binocular"
 		};
@@ -3185,7 +3185,7 @@ class CfgVehicles {
 			"SmokeShell",
 			"SmokeShellBlue",
 			"ACE_M84",
-			"rhs_mag_maaws_HEAT";
+			"MRAWS_HEAT_F";
 			
 		};
 		respawnMagazines[]=
@@ -3207,7 +3207,7 @@ class CfgVehicles {
 			"SmokeShell",
 			"SmokeShellBlue",
 			"ACE_M84",
-			"rhs_mag_maaws_HEAT";
+			"MRAWS_HEAT_F";
 			
 		};
 		linkedItems[]=
@@ -4482,7 +4482,7 @@ class CfgVehicles {
 		{
 			"corb_rhs_weap_m4a1_carryhandle_rco_sup_anpeq15",
 			"rhsusf_weap_glock17g4",
-			"rhs_weap_maaws",
+			"launch_MRAWS_green_rail_F",
 			"Throw",
 			"Put",
 			"Binocular"
@@ -4491,7 +4491,7 @@ class CfgVehicles {
 		{
 			"corb_rhs_weap_m4a1_carryhandle_rco_sup_anpeq15",
 			"rhsusf_weap_glock17g4",
-			"rhs_weap_maaws",
+			"launch_MRAWS_green_rail_F",
 			"Throw",
 			"Put",
 			"Binocular"
@@ -4510,7 +4510,7 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_maaws_HEAT",
+			"MRAWS_HEAT_F",
 			"HandGrenade",
 			"HandGrenade",
 			"SmokeShell",
@@ -4532,7 +4532,7 @@ class CfgVehicles {
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
 			"rhsusf_mag_17Rnd_9x19_FMJ",
-			"rhs_mag_maaws_HEAT",
+			"MRAWS_HEAT_F",
 			"HandGrenade",
 			"HandGrenade",
 			"SmokeShell",
@@ -5410,18 +5410,18 @@ class CfgVehicles {
 		};
 		class TransportMagazines
 		{
-			class rhs_mag_maaws_HEAT
+			class MRAWS_HEAT_F
 			{
-				magazine="rhs_mag_maaws_HEAT";
+				magazine="MRAWS_HEAT_F";
 				count=6;
 			};
 		};
 		class TransportWeapons
 		{
-			class rhs_weap_maaws
+			class launch_MRAWS_green_rail_F
 			{
 				count = 1;
-				weapon = "rhs_weap_maaws";
+				weapon = "launch_MRAWS_green_rail_F";
 			};
 		};
 		
