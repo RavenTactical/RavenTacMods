@@ -10,17 +10,6 @@ class CfgWeapons {
 	class MMG_02_black_F;
 	class srifle_GM6_F;
 	
-	
-	class FirstAidKit;
-	class Medikit;
-	
-	class FirstAidKit: FirstAidKit {
-		scope=2
-		};
-	
-	class Medikit: Medikit {
-		scope=2
-		};
 
 	class corb_rhs_weap_m16a4_handle_anpeq15: rhs_weap_m16a4_carryhandle {
 			scope=1;
