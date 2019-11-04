@@ -113,6 +113,36 @@ class cfgWeapons
 			"RavPatRHS\Data\RT_6b_winter.paa"
 		};
 	};
+/* 	class RavPatRHS_combatHelmet_tiger: rhs_6b7_1m_olive
+	{
+		displayName="[RT] Combat Helmet Tiger Stripe";
+		author="Citadel";
+		hiddenSelections[]=
+		{
+			"Camo1",
+			"Camo2"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"RavPatRHS\Data\rhs_6b7-1m_co.paa",
+			"RavPatRHS\Data\RT_6b_TS.paa"
+		};
+	};
+	class RavPatRHS_combatHelmet_tiger_desert: rhs_6b7_1m_olive
+	{
+		displayName="[RT] Combat Helmet Tiger Stripe Desert";
+		author="Citadel";
+		hiddenSelections[]=
+		{
+			"Camo1",
+			"Camo2"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"RavPatRHS\Data\rhs_6b7-1m_co.paa",
+			"RavPatRHS\Data\RT_6b_TSD.paa"
+		};
+	}; */
 	class RavPatRHS_combatHelmet_winter_bala: rhs_6b7_1m_bala2_emr
 	{
 		displayName="[RT] Combat Helmet Winter Balaclava";
