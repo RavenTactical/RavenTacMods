@@ -1123,30 +1123,18 @@ class CfgVehicles {
 ////////////////////////////////////////////////////////////
 	
 	class RavPat_Backpack_Kitbag_bw;
-	class RT_Radio_Pack_night: RavPat_Backpack_Kitbag_bw
 	{
 		scope=1;
 		class TransportItems
 		{
-			class ACRE_PRC117F
-			{
-				count=1;
-				name="ACRE_PRC117F";
-			};
 		};
 	};
 	
     class ravpat_kitbag_OGA_OD;
-	class RT_Radio_Pack : ravpat_kitbag_OGA_OD 
 	{
 		scope=1;
 		class TransportItems
 		{
-			class ACRE_PRC117F
-			{
-				count=1;
-				name="ACRE_PRC117F";
-			};
 		};
 	};
 	
@@ -1527,7 +1515,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1543,7 +1530,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1567,7 +1553,6 @@ class CfgVehicles {
         identityTypes[] = { "Head_NATO" , "LanguageENGFRE_F" , "G_NATO_casual" };
 
 		uniformClass="RavPat_TS_Camo";
-		backpack="RT_Radio_Pack";
 		weapons[]=
 		{
 			"corb_rhs_weap_m16a4_handle_anpeq15",
@@ -1650,7 +1635,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1666,7 +1650,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1765,6 +1748,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_14",
 			"RavPat_blu4_OGA_OD",
 			"RavPatRHS_m97_TS"
@@ -1775,6 +1759,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_14",
 			"RavPat_blu4_OGA_OD",
 			"RavPatRHS_m97_TS"
@@ -1785,7 +1770,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1801,7 +1785,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1891,7 +1874,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1907,7 +1889,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -1994,7 +1975,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2010,7 +1990,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2116,7 +2095,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2132,7 +2110,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2242,7 +2219,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2258,7 +2234,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2364,7 +2339,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2380,7 +2354,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2490,7 +2463,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2506,7 +2478,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2612,7 +2583,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2628,7 +2598,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2734,7 +2703,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2750,7 +2718,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2762,16 +2729,13 @@ class CfgVehicles {
 		};
 	};
 
-    class B_BLUCW_Radio_Operator_01 : B_BLUCW_Legionnaire_01 {
         author = "Citadel";
         scope = 2;
         scopeCurator = 2;
-        displayName = "Radio Operator";
         side = 1;
         faction = "BLU_C_W";
 
 		uniformClass="RavPat_TS_Camo";
-		backpack="RT_Radio_Pack";
 		weapons[]=
 		{
 			"corb_rhs_weap_m16a4_handle_anpeq15",
@@ -2854,7 +2818,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2870,7 +2833,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -2985,7 +2947,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3001,7 +2962,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3108,7 +3068,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3124,7 +3083,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3234,7 +3192,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3250,7 +3207,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3357,7 +3313,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3373,7 +3328,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3480,7 +3434,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3496,7 +3449,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3598,7 +3550,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3615,7 +3566,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3720,7 +3670,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3737,7 +3686,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3844,7 +3792,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3860,7 +3807,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3934,6 +3880,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"RavPat_blu4_OGA_OD",
 			"H_HelmetCrew_I"
@@ -3944,6 +3891,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"RavPat_blu4_OGA_OD",
 			"H_HelmetCrew_I"
@@ -3954,7 +3902,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -3970,7 +3917,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4044,6 +3990,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"V_TacVest_oli",
 			"rhsusf_hgu56p"
@@ -4054,6 +4001,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"V_TacVest_oli",
 			"rhsusf_hgu56p"
@@ -4064,7 +4012,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4080,7 +4027,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4153,6 +4099,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"V_TacVest_oli",
 			"rhsusf_hgu56p"
@@ -4163,6 +4110,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"V_TacVest_oli",
 			"rhsusf_hgu56p"
@@ -4173,7 +4121,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4189,7 +4136,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_green",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4284,6 +4230,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4294,6 +4241,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4304,7 +4252,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4320,7 +4267,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4347,7 +4293,6 @@ class CfgVehicles {
         identityTypes[] = { "Head_NATO" , "LanguageENGFRE_F" , "G_NATO_default" };
 
 		uniformClass="RavPat_TS_Camo";
-		backpack="RT_Radio_Pack_night";
 		weapons[]=
 		{
 			"corb_rhs_weap_m4a1_carryhandle_rco_sup_anpeq15",
@@ -4412,6 +4357,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4422,6 +4368,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4432,7 +4379,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4448,7 +4394,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4546,6 +4491,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4556,6 +4502,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4566,7 +4513,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4582,7 +4528,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4674,6 +4619,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4684,6 +4630,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4694,7 +4641,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4710,7 +4656,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4784,6 +4729,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4794,6 +4740,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4804,7 +4751,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4820,7 +4766,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4914,6 +4859,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4924,6 +4870,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -4934,7 +4881,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -4950,7 +4896,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -5041,6 +4986,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -5051,6 +4997,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"TAC_EI_RRVS_SPR2_BK",
 			"rhsusf_opscore_bk_pelt"
@@ -5061,7 +5008,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -5078,7 +5024,6 @@ class CfgVehicles {
 			"FirstAidKit",
 			"FirstAidKit",
 			"rhssaf_beret_red",
-			"ItemRadio",
 			"ACE_DefusalKit",
 			"ACE_IR_Strobe_Item",
 			"ACE_CableTie",
@@ -6719,6 +6664,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"V_Rangemaster_belt",
 			"rhs_zsh7a_alt"
@@ -6729,6 +6675,7 @@ class CfgVehicles {
 			"ItemCompass",
 			"ItemWatch",
 			"ItemGPS",
+			"ItemRadio",
 			"rhsusf_ANPVS_15",
 			"V_Rangemaster_belt",
 			"rhs_zsh7a_alt"
